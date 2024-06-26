@@ -6,9 +6,9 @@ This repository contains a simple Flask application that runs inside a Docker co
 
 The project directory is structured as follows:
 Flask-app/
-├── Dockerfile
-├── requirements.txt
-└── app.py
+1. Dockerfile
+2. requirements.txt
+3. app.py
 
 ### Prerequisites
 
